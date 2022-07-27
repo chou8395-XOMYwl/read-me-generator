@@ -65,3 +65,13 @@ THEN I am taken to the corresponding section of the README
   - Tests
 
   - License Badge
+
+
+## Link To Video
+
+https://drive.google.com/file/d/1Hc9lt-XlKOmT7qxACxb9WWnKRKfBmHNl/view
+
+
+## Link To GitHub Repo
+
+https://github.com/chou8395-XOMYwl/readme-generator.git
