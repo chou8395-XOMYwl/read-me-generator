@@ -5,7 +5,7 @@ const fs = require("fs");
 const inquirer = require("inquirer");
 
 // need a markdown js file here
-const generateMarkdown = require("./utils/generateMarkdown");
+const generateMarkdown = require("./assets/generateMarkdown");
 
 
 // License function and  if/else section here 
@@ -53,7 +53,7 @@ const questions = [
         validate: validateInput,
     },
 
-    // Table of Contents, andling this in the markdown.js
+    // Table of Contents, adding this in the markdown.js
 
     // Question for Installation
     {
