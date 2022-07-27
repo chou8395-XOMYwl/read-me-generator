@@ -14,6 +14,10 @@ Uses the inquirer package and is invoked with the following command:
   - node index.js
 
 
+## Sample README of application
+
+Example of generate README located in "example" directory of repo. README is a related to walkthrough video.
+
 ## Acceptance Critera
 
 GIVEN a command-line application that accepts user input
